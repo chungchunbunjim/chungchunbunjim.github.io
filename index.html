@@ -65,10 +65,12 @@
 					<div class="col-md-12">
 						<div id="blogCarousel" class="carousel slide" data-ride="carousel">
 
-							<ul class="carousel-indicators">
+							<ol class="carousel-indicators">
 								<li data-target="#demo" data-slide-to="0" class="active"></li>
 								<li data-target="#demo" data-slide-to="1"></li>
-							</ul>
+								<li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
+								<li data-target="#blogCarousel" data-slide-to="1"></li>
+							</ol>
 
 							<!-- Carousel items -->
 							<div class="carousel-inner">
@@ -76,12 +78,12 @@
 								<div class="carousel-item active">
 									<div class="row">
 										<div class="img-reponsive col-md-6">
-											<a href="#">
+											<a href="#demo">
 												<img src="img/poster1.jpg" alt="Image" style="max-width:100%;">
 											</a>
 										</div>
 										<div class="img-reponsive col-md-6">
-											<a href="#">
+											<a href="#demo">
 												<img src="img/poster2.jpg" alt="Image" style="max-width:100%;">
 											</a>
 										</div>
@@ -232,7 +234,7 @@
         <div class="col-lg-8 text-center">
           <h2 class="mt-0">Oraganization Chart</h2>
 		  <hr class="divider my-4">
-		   <img class="img-reponsive col-3" src="img/chart2.jpg" alt="Chart">
+		   <img class="img-reponsive col-md-3" src="img/chart2.jpg" alt="Chart">
         </div>
       </div>
 	</div>
