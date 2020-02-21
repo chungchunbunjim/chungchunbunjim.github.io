@@ -9777,3 +9777,8 @@ header.masthead h1 {
 .history-line-height {
   line-height: 2em;
 }
+
+.w-95 {
+  width: 95%!important;
+  margin: auto;
+}
