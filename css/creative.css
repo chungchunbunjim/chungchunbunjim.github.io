@@ -9632,13 +9632,13 @@ hr.light {
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: #fff;
+    color: #f08080;
   }
   #mainNav .navbar-nav .nav-item:last-child .nav-link {
     padding-right: 0;
   }
   #mainNav.navbar-scrolled {
-    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0.5rem 1rem rgba(240, 128, 128, 0.15);
     background-color: #fff;
   }
   #mainNav.navbar-scrolled .navbar-brand {
