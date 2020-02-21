@@ -9609,11 +9609,11 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f08080;
+  color:#f08080 !important;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color:#f08080; !important;
+  color:#f08080 !important;
 }
 
 @media (min-width: 992px) {
