@@ -9740,32 +9740,24 @@ header.masthead h1 {
   justify-content: space-between;
 }
 
-/*@media (min-width: 576px) and (max-width: 767.98px) {
+@media (min-width: 576px) and (max-width: 767.98px) {
   .slide-box img {
-    -ms-flex: 0 0 75%;
-    flex: 0 0 75%;
-    max-width: 75%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
-  slide-box img {
-    -ms-flex: 0 0 33.3333%;
-    flex: 0 0 33.3333%;
-    max-width: 33.3333%;
+  .slide-box img {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
   }
 }
 
 @media (min-width: 992px)
 {
-  .slide-box img {
-    -ms-flex: 0 0 30%;
-    flex: 0 0 30%;
-    max-width: 30%;
-  }
-}*/
-
-@media {
   .slide-box img {
     -ms-flex: 0 0 50%;
     flex: 0 0 50%;
