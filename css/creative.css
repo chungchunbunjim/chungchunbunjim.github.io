@@ -9742,9 +9742,9 @@ header.masthead h1 {
 
 @media (min-width: 576px) and (max-width: 767.98px) {
   .slide-box img {
-    -ms-flex: 0 0 50%;
+    -ms-flex: 0 0 75%;
     flex: 0 0 50%;
-    max-width: 50%;
+    max-width: 75%;
   }
 }
 
@@ -9759,9 +9759,9 @@ header.masthead h1 {
 @media (min-width: 992px)
 {
   .slide-box img {
-    -ms-flex: 0 0 25%;
+    -ms-flex: 0 0 50%;
     flex: 0 0 25%;
-    max-width: 25%;
+    max-width: 50%;
   }
 }
 
