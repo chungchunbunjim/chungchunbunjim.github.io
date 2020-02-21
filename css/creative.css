@@ -9773,3 +9773,7 @@ header.masthead h1 {
 .carousel-padding-top {
   padding: 120px 0 120px 0;
 }
+
+.history-line-height {
+  line-height: 2em;
+}
