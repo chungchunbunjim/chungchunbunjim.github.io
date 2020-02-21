@@ -9613,7 +9613,7 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color:#f08080; !important;
 }
 
 @media (min-width: 992px) {
@@ -9642,13 +9642,13 @@ hr.light {
     background-color: #fff;
   }
   #mainNav.navbar-scrolled .navbar-brand {
-    color: #f08080;
+    color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #f08080;
+    color: #f4623a;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
-    color: #f08080;
+    color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
     color: #f08080;
